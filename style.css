@@ -1,0 +1,27 @@
+form {
+	font-size: 30px;
+	font-family: helvetica;
+	color: red;
+}
+
+input {
+	font-size: 12px;
+	font-family: helvetica;
+	color: red;
+}
+
+body {
+	align-content: center;
+	background-image: url(https://media.giphy.com/media/11Br38TUpXchNK/giphy.gif);
+}
+
+.color {
+	color: #ff0099;
+	font-family: arial;
+	border: 2px red;
+	background-color: yellow;
+}
+
+.background {
+	background-color: white;
+}
